@@ -1,5 +1,3 @@
-
-
 #![no_main]
 #![no_std]  // std support is experimental, but you can remove this to try it
 

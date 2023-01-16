@@ -20,4 +20,6 @@ fn main() {
 
     // Print an assertion
     println!("Hello, world! I know the factors of {}, and I can prove it!", c);
+
+    // Submit receipt somewhere
 }
